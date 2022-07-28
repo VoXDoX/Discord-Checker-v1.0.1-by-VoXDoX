@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Discord Checker v1.0.1 by VoXDoX/1.0.0": {
+        "runtime": {
+          "Discord Checker v1.0.1 by VoXDoX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Discord Checker v1.0.1 by VoXDoX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\bin\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.exe
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\bin\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.deps.json
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\bin\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.runtimeconfig.json
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\bin\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.dll
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\bin\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.pdb
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.csproj.AssemblyReference.cache
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.GeneratedMSBuildEditorConfig.editorconfig
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.AssemblyInfoInputs.cache
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.AssemblyInfo.cs
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.csproj.CoreCompileInputs.cache
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.dll
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\refint\Discord Checker v1.0.1 by VoXDoX.dll
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.pdb
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\Discord Checker v1.0.1 by VoXDoX.genruntimeconfig.cache
+V:\My Project\Discord Checker C#\Discord Checker v1.0.1 by VoXDoX\Discord Checker v1.0.1 by VoXDoX\obj\Debug\net6.0\ref\Discord Checker v1.0.1 by VoXDoX.dll
